@@ -33,7 +33,7 @@ To manage application-level data efficiently, we implement state management usin
 We write comprehensive unit tests and integration tests for React components using Jest and React Testing Library. This testing approach ensures code reliability and maintainability, covering user interactions, API calls, and state changes to validate various scenarios.
 
 2.	Functional and Non-Functional Requirements
-2.1	Functional Requirements:
+#### 2.1	Functional Requirements:
 1. User Registration and Authentication:
    - Users should be able to register on the website with a unique username and password.
    - Registered users should be able to log in and access their personalized accounts.
@@ -73,7 +73,7 @@ We write comprehensive unit tests and integration tests for React components usi
 10. Order Confirmation and Email Notifications:
     - Users should receive an order confirmation email after completing a purchase.
     - Email notifications should be sent for order updates, such as shipping and delivery status..
-2.2	Non-Functional Requirements
+#### 2.2	Non-Functional Requirements
 1. Performance:
    - The website should load quickly, with minimal page load times, to enhance user experience.
    - It should be able to handle a large number of concurrent users without significant performance degradation.
